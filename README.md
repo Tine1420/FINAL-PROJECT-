@@ -32,8 +32,3 @@ Feel free to get in touch with me for inquiries or collaborations:
 Email: [christinenicolemiranda0@gmail.com](mailto:christinenicolemiranda0@gmail.com)
 Facebook: [Christine Nicole P. Miranda](https://facebook.com)
 
-Technologies Used
-
-HTML:For structure and content of the portfolio.
-CSS: For styling and making the page responsive.
-GitHub: For version control and hosting the portfolio online.
