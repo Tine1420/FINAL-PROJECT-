@@ -34,13 +34,6 @@ Facebook: [Christine Nicole P. Miranda](https://facebook.com)
 
 Technologies Used
 
-HTML5For structure and content of the portfolio.
+HTML:For structure and content of the portfolio.
 CSS: For styling and making the page responsive.
 GitHub: For version control and hosting the portfolio online.
-
-## How to View My Portfolio
-
-1. Clone or download this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   
